@@ -1,0 +1,7 @@
+flask==3.0.0
+textblob
+scikit-learn
+pandas
+numpy
+nltk
+spacy
